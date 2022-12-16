@@ -1,0 +1,31 @@
+.get{
+    border: 1px solid;
+    background-color: orange;
+    border-radius: 30px;
+}
+.bar{
+    padding-left: 750px;
+}
+.nav-item{
+    padding-left: 10px;
+}
+.home{
+    color: orange;
+}
+.go{
+    padding-left: 200px;
+}
+.digital{
+    background-color: lightblue;
+}
+.welcome{
+    background-color: lightblue;
+}
+img{
+    width: 300px;
+    height:300px;
+}
+.start{
+    background-color: orange;
+    border-radius: 30px;
+}
